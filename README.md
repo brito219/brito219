@@ -1,7 +1,4 @@
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" 
-src="https://i.im.ge/2023/05/02/L4Zrhm.so-eu.png" alt="só eu" border="0"></a>
-
-### Olá, sou o Brito!👋
+### oi, sou o Brito!👋
 
 - 🔭 Estudante universitário
 - 📫 Campo Grande-MS
