@@ -1,4 +1,4 @@
-### oi, sou o Brito!👋
+### Olá, sou o Brito!👋
 
 - 🔭 Estudante universitário
 - 📫 Campo Grande-MS
