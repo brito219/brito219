@@ -2,8 +2,7 @@
 
 - 🔭 Estudante universitário
 - 📫 Campo Grande-MS
-- 🐍 Aprendendo Python e Data Science
-- 📱 Sonho em trabalhar com desenvolvimento mobile
+- 🐍 Python, Data Science e PowerBI
 - 🌱 Ajuda é sempre bem vinda
 
 ##
