@@ -2,7 +2,7 @@
 
 - 🔭 Estudante universitário
 - 📫 Campo Grande-MS
-- 🐍 Python, Data Science e PowerBI
+- 🐍 Python e Dart
 - 🌱 Ajuda é sempre bem vinda
 
 ##
