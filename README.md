@@ -5,10 +5,11 @@
 - 🌱 Ajuda é sempre bem vinda
 
 ##
-<div>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=brito219&theme=slateorange&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brito219&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
- </div>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brito219&theme=slateorange&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brito219&theme=slateorange&layout=compact"/>
+</div>
+
   
   
 
