@@ -2,7 +2,6 @@
 
 - 🔭 Estudante universitário
 - 📫 Campo Grande-MS
-- 🐍 Python e Dart
 - 🌱 Ajuda é sempre bem vinda
 
 ##
