@@ -6,8 +6,9 @@
 
 ##
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brito219&theme=slateorange&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brito219&theme=slateorange&layout=compact"/>
+  <a href="https://github.com/brito219">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brito219&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brito219&layout=compact&langs_count=10&theme=dark">
 </div>
 
   
