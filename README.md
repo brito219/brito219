@@ -2,7 +2,7 @@
 
 - 🔭 Estudante universitário
 - 📫 Campo Grande-MS
-- 🌱 Ajuda é sempre bem vinda
+- 🌱 Ajuda é sempre bem vinda!
 
 ##
 <div align="center">
