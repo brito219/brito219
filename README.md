@@ -1,7 +1,6 @@
 ### Olá, sou o Brito!👋
 
 - 🔭 Estudante universitário
-- ☁️ Estagiário em AWS Data Cloud Engineering
 - 📫 Campo Grande-MS
 - 🌱 Ajuda é sempre bem vinda!
 
