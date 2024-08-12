@@ -7,7 +7,7 @@
 
 ##
 
-  <img height="182em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brito219&count_private=true&layout=compact&langs_count=10&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="182em" width="400em" src="https://github-readme-stats-six-xi-85.vercel.app/api/top-langs/?username=brito219&count_private=true&layout=compact&langs_count=10&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 ##
