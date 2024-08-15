@@ -1,9 +1,9 @@
 <div align="center">
-  <h3>Olá, sou o Brito!👋</h3>
+  <h3>Hi! you can call me Brito!👋</h3>
 
-  <p> - 🔭 Estudante universitário</p>
-  <p> - 📫 Campo Grande-MS</p>
-  <p> - 🌱 Ajuda é sempre bem-vinda!</p>
+  <p> - 🔭 University student</p>
+  <p> - 📫 Mato Grosso do Sul - Brazil</p>
+  <p> - 🌱 Always willing to learn</p>
 
 ##
 
