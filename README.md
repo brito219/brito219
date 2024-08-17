@@ -3,7 +3,7 @@
 
   <p> - 🔭 University student</p>
   <p> - 📫 Mato Grosso do Sul - Brazil</p>
-  <p> - 🌱 Always willing to learn</p>
+  <p> - 🌱 Always willing to learn :P</p>
 
 ##
 
