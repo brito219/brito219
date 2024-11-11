@@ -7,8 +7,8 @@
 
 ##
 
-  <img height="182em" width="400em" src="https://github-readme-stats-final-version.vercel.app/api/top-langs/?username=brito219&count_private=true&layout=compact&langs_count=10&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="182em" width="400em" src="https://github-readme-stats-final-version.vercel.app/api?username=brito219&count_private=true&layout=compact&langs_count=10&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="182em" width="400em" src="https://github-readme-stats-final-git-636ee2-joao-pedro-britos-projects.vercel.app/api/top-langs/?username=brito219&count_private=true&include_all_commits=true&layout=compact&langs_count=10&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="182em" width="400em" src="https://github-readme-stats-final-git-636ee2-joao-pedro-britos-projects.vercel.app/api?username=brito219&count_private=true&include_all_commits=true&layout=compact&langs_count=10&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 ##
