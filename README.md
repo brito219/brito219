@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>sou o brito!👋</h3>
+  <h3>sou o brito!</h3>
 
   <p> - 🔭 estudante universitário</p>
   <p> - 📫 campo grande - mato grosso do sul</p>
